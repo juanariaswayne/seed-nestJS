@@ -2,7 +2,7 @@
     "name": "nestjs-seed",
     "version": "0.0.1",
     "description": "",
-    "author": "",
+    "author": "Juan Arias",
     "private": true,
     "license": "UNLICENSED",
     "scripts": {
